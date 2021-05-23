@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Christopher Adrian Kusuma
 - 👀 I’m interested in CTF and python
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning hacking
