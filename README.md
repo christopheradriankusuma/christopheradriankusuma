@@ -11,8 +11,6 @@
 💬 Ask me about Web Development, Cyebr Security, or other.\
 ✉️ &nbsp;You can shoot me an email at christopheradrian2903@gmail.com or instagram at @christopheradrian29! I'll try to respond as soon as I can.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 ### 🛠 &nbsp;Language and Tools
 
 - 🌐 &nbsp;
@@ -43,7 +41,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/christopheradriankusuma">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=christopheradriankusuma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christopheradriankusuma&layout=compact&langs_count=8&theme=algolia"/>
 </a>
