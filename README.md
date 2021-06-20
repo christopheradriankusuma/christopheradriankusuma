@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm highly interested in learning Cyber Security.\
 ✍️ &nbsp;In my free time, I play chess as my hobby or do some CTFs.\
 💬 Ask me about Web Development, Cyebr Security, or other.\
-✉️ &nbsp;You can shoot me an email at christopheradrian2903@gmail.com or instagram at @christopheradrian29! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at christopheradrian2903@gmail.com or instagram at @christopheradrian29! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Language and Tools
 
