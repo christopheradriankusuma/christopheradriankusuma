@@ -38,7 +38,7 @@
   ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1AC9F0)
   ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=1AC9F0)
-  ![Kali Linux](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=kalilinux&logoColor=FFF)
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=kalilinux&logoColor=FFF)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
