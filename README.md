@@ -6,9 +6,9 @@
 
 💡 &nbsp;I like to learn new technologies.\
 🎓 &nbsp;I'm currently studying Information Technology at the Sepuluh Nopember Institute of Technology.\
-🌱 &nbsp;I'm highly interested in learning Cyber Security.\
+🌱 &nbsp;I'm highly interested in learning Deep Learning.\
 ✍️ &nbsp;In my free time, I play chess as my hobby or do some CTFs.\
-💬 Ask me about Web Development, Cyber Security, Machine Learning, Mobile Development, or others.\
+💬 Ask me about Web Development, Machine Learning, Mobile Development, or others.\
 ✉️ &nbsp;You can shoot me an email at christopheradrian2903@gmail.com or instagram at @christopheradrian29! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Language and Tools
